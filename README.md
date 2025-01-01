@@ -26,7 +26,7 @@ Models Implemented:
 2. Random Forest Classifier
 - Accuracy: 94.03%
 - F1 Score: 92.34%
-- 
+  
 3. Support Vector Machine (with different kernels)
 - Linear Kernel: 92.74% accuracy
 - RBF Kernel: 93.34% accuracy
